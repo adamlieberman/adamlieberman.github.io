@@ -1,3 +1,4 @@
+/*Creating and Analyzing a Data Set Containing LAT Test Scores*/
 OPTIONS LS=80 PS=60;
 DATA D1; 
 	INPUT SUB_NUM 
