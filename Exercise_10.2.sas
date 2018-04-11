@@ -1,9 +1,10 @@
+/*Correlation study of Nurses Intent to Remain*/
 OPTIONS LS=80 PS=60;
 DATA D1;
 	INPUT SUB_NUM
-		  N_ASSERT
-		  EXHAUST
-		  INT_REM;
+		  N_ASSERT /*Nurse Assertiveness*/
+		  EXHAUST /*Emotional Exhaustion*/
+		  INT_REM; /*Intent to Remain*/
 DATALINES;
 01 22 10 34
 02 20 13 34 
