@@ -1,4 +1,5 @@
- OPTIONS LS=80 PS=60;
+/*Analyzing Sex differences in Sexual Jealousy using Independent-Samples T-Test*/
+OPTIONS LS=80 PS=60;
 DATA D1;
 	INPUT SUB_NUM 
 		  SEX $
