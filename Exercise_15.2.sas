@@ -1,3 +1,4 @@
+/*The Effect of News Source Credibility on Voter Reactions to Political Scandal, One-Way ANOVA*/
 options ls=80 ps=60;
 data D1;
 	input SUB_NUM
