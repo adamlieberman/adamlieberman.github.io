@@ -1,3 +1,4 @@
+/*Computing Mean Age, IQ, and Income*/
 OPTIONS LS=80 PS=60;
 DATA D1;
 	INPUT AGE
