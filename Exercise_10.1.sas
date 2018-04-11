@@ -1,10 +1,11 @@
+/*Bivariate Correlation Study of Drinking and Driving Behavior*/
 OPTIONS LS=80 PS=60;
 DATA D1;
 	INPUT SUB_NUM
-		  MC_T1
-		  PC_T1
-		  DD_T1
-		  DD_T2;
+		  MC_T1 /*moral commitment at time 1*/
+		  PC_T1 /*percieved certainty at time 1*/
+		  DD_T1 /*drinking and driving at time 1*/
+		  DD_T2; /*drinking and driving at time 2*/
 DATALINES;
 01 24  8 1 3 
 02 12 12 3 4
