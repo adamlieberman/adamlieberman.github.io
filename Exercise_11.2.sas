@@ -1,4 +1,4 @@
-/*Predicting Nurses' Intent to Remain from Emotional Exhaustion using PROC REG*/
+/*Predicting Nurses' Intent to Remain from Emotional Exhaustion using Linear Regression Modeling*/
 OPTIONS LS=80 PS=60;
 DATA D1;
 	INPUT SUB_NUM
