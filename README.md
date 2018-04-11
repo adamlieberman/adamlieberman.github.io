@@ -1,2 +1,2 @@
 # adamlieberman.github.io
-Projects completed in biostatistics I class
+Projects completed in Biostatistics I and II
