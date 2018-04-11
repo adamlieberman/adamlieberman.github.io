@@ -1,2 +1,2 @@
 # adamlieberman.github.io
-Projects completed in Biostatistics I and II
+SAS projects completed in Biostatistics I and II
