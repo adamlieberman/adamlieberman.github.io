@@ -1,3 +1,4 @@
+/*Relationship Between Membership in College Student Organizations and Sexually Coercive Behavior in Men*/
 OPTIONS LS=80 PS=60;
 DATA D1;
 	INPUT COERC    $
