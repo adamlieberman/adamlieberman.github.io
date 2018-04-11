@@ -1,3 +1,4 @@
+/*Working with an Academic Development Questionnaire and using IF-THEN statements to create new variables*/
 OPTIONS LS=80 PS=60;
 DATA D1;
 	INPUT SUB_NUM
