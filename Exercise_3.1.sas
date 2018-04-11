@@ -1,3 +1,4 @@
+/*Computing Mean Height, Weight, and Age*/
 OPTIONS LS=80 PS=60;
 DATA D1;
 INPUT 	SUB_NUM
