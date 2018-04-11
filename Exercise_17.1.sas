@@ -1,3 +1,4 @@
+/*The Relationship Between Sex of Children and Marital Disruption*/
 OPTIONS LS=80 PS=60;
 DATA D1;
 	INPUT STATUS $
