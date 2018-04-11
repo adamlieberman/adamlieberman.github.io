@@ -1,3 +1,4 @@
+/*Predicting Nurses' Intent to Remain from Emotional Exhaustion using PROC REG*/
 OPTIONS LS=80 PS=60;
 DATA D1;
 	INPUT SUB_NUM
