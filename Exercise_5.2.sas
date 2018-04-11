@@ -1,7 +1,8 @@
+/*Using PROC FREQ to Analyze Exercise Data*/
 OPTIONS LS=80 PS=60;
 DATA D1;
 	INPUT SUB_NUM
-		  MINUTES;
+	      MINUTES;
 DATALINES;
 01 120 
 02  20 
