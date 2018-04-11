@@ -1,8 +1,9 @@
+/*Effect of Interview Suspicion on Interviewee Nervousness, Independent Sample T-Test*/
 OPTIONS LS=80 PS=60;
 DATA D1;
 	INPUT SUB_NUM
-		  SUS_GRP $
-          NERV;
+		 SUS_GRP $
+         	 NERV;
 DATALINES;
 01 L 17
 02 L 20
